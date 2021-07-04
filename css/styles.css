@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E6E6E6;
+}
+
+h3 {
+    padding: 1% 0;
+}
+
+.navigation {
+    background-color: #F9F9F9;
+    display: flex;
+    justify-content: space-between;
+    height: 56px;
+    padding: 1% 1% 0;
+}
+
+.search {
+    width: 150px;
+}
+
+.main-content {
+    margin: 24px 16px 12px 8px;
+    display: flex;
+}
+
+.main-content-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+}
+
+.vid-info-right {
+    padding-left: 870px;
+}
+
+.logo {
+    width: 50px;
+    border-radius: 50%;
+    padding: 1% 0;
+    float: left;
+    margin-right: 10px;
+}
+
+.channel-name {
+        padding-top: 20px;
+}
+
+.subscribe-button {
+    margin-left: 1150px;
+    padding-top: 0;
+}
+
+.vid-description {
+    width: 70%;
+    padding: 1%;
+    margin-left: 20px;
+    line-height: 1.5;
+}
+
+
+.side-bar {
+    padding: 0 2%;
+}
+
+.side-videos {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.vid1-description {
+    padding: 0 5%;
+}
+
+.fas {
+    padding: 0 16px;
+}
